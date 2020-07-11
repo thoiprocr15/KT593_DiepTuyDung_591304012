@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "KT593_DiepTuyDung_59130401"
